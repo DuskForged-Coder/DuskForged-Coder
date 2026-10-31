@@ -94,6 +94,114 @@ I'm working towards developing practical, secure, and intelligent technology sol
 
 ---
 
+---
+
+# ⚡ THE INNOVATION LAB
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Ideas+into+Engineering.;Experiment.+Develop.+Innovate.;Building+the+Next+Generation+of+Technology." alt="Innovation Lab Animation"/>
+</p>
+
+<p align="center">
+  <i>A space for projects, experiments, future concepts and ambitious ideas.</i>
+</p>
+
+## 🚀 Currently Building
+
+<table>
+<tr>
+<td width="50%">
+<h3>🧠 AX1 — Neuro-X</h3>
+<b>Private Intelligence Infrastructure</b>
+<br/><br/>
+Exploring local-first AI, intelligent workflows and private AI systems.
+<br/><br/>
+<img src="https://img.shields.io/badge/Domain-AI%2FML-00BFFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Local%20AI-161B22?style=flat-square"/>
+</td>
+<td width="50%">
+<h3>🌍 AirCast</h3>
+<b>Air Quality Intelligence</b>
+<br/><br/>
+An air-quality prediction and recommendation application exploring data-driven environmental insights.
+<br/><br/>
+<img src="https://img.shields.io/badge/Domain-Machine%20Learning-8957E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Prediction-161B22?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>📱 Animarch</h3>
+<b>Anime Discovery & Tracking</b>
+<br/><br/>
+An Android development experiment exploring modern application architecture, Jetpack Compose and API integration.
+<br/><br/>
+<img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square"/>
+<img src="https://img.shields.io/badge/Purpose-Learning-161B22?style=flat-square"/>
+</td>
+<td width="50%">
+<h3>🏢 ARYAVAX Technologies</h3>
+<b>Technology & Innovation</b>
+<br/><br/>
+Building an initiative around AI, cybersecurity, autonomous systems and software engineering.
+<br/><br/>
+<img src="https://img.shields.io/badge/Focus-Engineering-00BFFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Year-2026-161B22?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+## 🔭 On The Drawing Board
+
+Ideas and technical directions I'd like to explore:
+
+| Area | Exploration |
+|---|---|
+| 🧠 Artificial Intelligence | Private and autonomous AI agents |
+| 🔐 Cybersecurity | Automated security assessment tools |
+| ⚙️ Automation | Intelligent workflow orchestration |
+| 🌐 Software Engineering | Scalable web and application systems |
+| 🤖 Autonomous Systems | Systems that plan, analyse and execute |
+| 📊 Data Science | Predictive and analytical systems |
+
+*These are exploration areas, not claims of completed products.*
+
+## 🧪 My Engineering Philosophy
+
+```text
+01. IDENTIFY     → Find a meaningful problem.
+02. RESEARCH     → Understand the technology.
+03. ARCHITECT    → Design the system.
+04. ENGINEER     → Build and experiment.
+05. VALIDATE     → Test, analyse and improve.
+06. INNOVATE     → Turn the solution into something useful.
+```
+
+## 🤝 Have an Idea? Let's Build It.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Got+a+project+idea%3F;Want+to+collaborate%3F;Let's+turn+your+idea+into+reality." alt="Collaboration animation"/>
+</p>
+
+<p align="center">
+  Whether it's a software product, AI experiment, automation tool or an ambitious technical concept, I'm interested in discussing ideas and exploring collaborations.
+</p>
+
+<p align="center">
+  <a href="https://wa.me/918882337893">
+    <img src="https://img.shields.io/badge/CHAT%20ON%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp"/>
+  </a>
+  <a href="mailto:aditya.rautaray2020@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Ideas welcome. Curiosity encouraged. Engineering in progress.</sub>
+</p>
+
+---
+
 ## 📂 Explore My GitHub
 
 <p align="center">

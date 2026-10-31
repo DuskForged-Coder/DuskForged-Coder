@@ -25,7 +25,7 @@ I am Aditya Narayan Rautaray, a B.Tech Computer Science Engineering student spec
 [![](https://komarev.com/ghpvc/?username=DuskForged-Coder&icon=3&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/razorpay.me/@adityanarayanrautaray) 
+  [![BuyMeACoffee](razorpay.me/@adityanarayanrautaray) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -202,6 +202,72 @@ Ideas and technical directions I'd like to explore:
 
 ---
 
+# 🛰️ ADITYA // DIGITAL HQ
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Workspace;Explore.+Discover.+Collaborate.;Technology+is+always+evolving." alt="Digital HQ"/>
+</p>
+
+<p align="center">
+  <i>Your gateway to my projects, announcements, events and technology initiatives.</i>
+</p>
+
+## 📢 Notice Board
+
+| Category | Notice | Status |
+|---|---|---|
+| 🏢 ARYAVAX | Company development and updates | Ongoing |
+| 💻 Development | New projects and experiments | Ongoing |
+| 🚀 Releases | Product and software releases | Follow updates |
+
+[View Latest Announcements](https://github.com/DuskForged-Coder)
+
+## 📅 Events & Community
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ARYAVAX%20EVENTS-COMING%20SOON-00BFFF?style=for-the-badge&logo=calendar&logoColor=white"/>
+</p>
+
+A space for technology events, developer activities, workshops, hackathons and future community initiatives.
+
+**More updates coming soon.**
+
+## 🛍️ ARYAVAX Store
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ARYAVAX-TECHNOLOGIES-00BFFF?style=for-the-badge&logo=shopify&logoColor=white"/>
+</p>
+
+Explore technology services and digital solutions from ARYAVAX Technologies.
+
+- 🌐 Website Development
+- 📱 Android Application Development
+- 🔐 Cybersecurity Solutions
+- 🧠 AI & Automation
+- ⚙️ Custom Software Development
+
+<p align="center">
+  <a href="https://aryavax-technologies.ai.studio">
+    <img src="https://img.shields.io/badge/EXPLORE%20ARYAVAX%20STORE-Visit%20Website-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+## 💡 Innovation & Ideas
+
+Have an interesting technical idea, project proposal or collaboration opportunity?
+
+[Discuss an Idea on WhatsApp](https://wa.me/918882337893)
+
+---
+
+<p align="center">
+  <b>ONE PROFILE. MULTIPLE POSSIBILITIES.</b>
+  <br/>
+  <sub>Built by Aditya Narayan Rautaray · 2026</sub>
+</p>
+
+---
+
 ## 📂 Explore My GitHub
 
 <p align="center">

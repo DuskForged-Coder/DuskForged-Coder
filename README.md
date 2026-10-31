@@ -1,31 +1,206 @@
-# 💫 About Me:
-I am Aditya Narayan Rautaray, a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Bennett University. I am a passionate developer and the founder of ARYAVAX Technologies, focused on building practical solutions through software development, AI/ML, cybersecurity, and automation.<br><br>My technical interests include Python, C++, Java, SQL, web development, Android development, machine learning, and intelligent systems. I enjoy exploring new technologies, solving real-world problems, and turning ideas into functional projects.<br><br>I believe in continuous learning, hands-on experimentation, and building technology that makes a meaningful impact. I actively work on personal projects, explore emerging technologies, and improve my development skills.<br><br>**Currently focused on:** Full-stack development, AI/ML, cybersecurity, automation, and building ARYAVAX Technologies.
+# ADITYA NARAYAN RAUTARAY
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Computer+Science+%26+AI%2FML+Student;Software+Developer;Founder+%40+ARYAVAX+Technologies;Building+Ideas+Into+Reality" alt="Typing animation" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@adityanarayanrautaray) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-narayan-rautaray-92b05b272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.rautaray2020@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DuskForged-Coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=DuskForged-Coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DuskForged-Coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DuskForged-Coder&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DuskForged-Coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/DuskForged-Coder">
+    <img src="https://img.shields.io/badge/GitHub-DuskForged--Coder-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-narayan-rautaray-92b05b272/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:aditya.rautaray2020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=DuskForged-Coder&icon=3&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](razorpay.me/@adityanarayanrautaray) 
+## 💫 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm **Aditya Narayan Rautaray**, a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning at Bennett University**.
+
+I'm a developer, technology enthusiast, and founder of **ARYAVAX Technologies**, an initiative exploring the intersection of software engineering, artificial intelligence, cybersecurity, and autonomous systems.
+
+I enjoy understanding technology from the ground up — from writing algorithms and designing databases to developing applications, experimenting with machine learning, and building intelligent systems.
+
+I believe in learning through experimentation, building things that solve actual problems, and continuously improving the way technology is designed and developed.
+
+### What I Work On
+
+- **Software Engineering:** Developing applications, websites, and practical software solutions.
+- **Artificial Intelligence:** Exploring machine learning, intelligent systems, and local AI.
+- **Cybersecurity:** Learning application security, vulnerability assessment, and digital protection.
+- **Automation:** Building tools, integrations, and intelligent workflows.
+- **Entrepreneurship:** Turning technical ideas into products through ARYAVAX Technologies.
+
+> "Don't just understand technology. Build it, challenge it, and make it better."
+
+---
+
+## 🎯 Current Focus
+
+- Building modern full-stack applications.
+- Exploring practical AI/ML implementations.
+- Developing privacy-focused, locally operated intelligent systems.
+- Exploring cybersecurity and application security.
+- Improving software architecture and engineering practices.
+- Building products and experiments under ARYAVAX Technologies.
+
+---
+
+## ⚡ Technical Arsenal
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,kotlin,js,ts,r,swift" />
+</p>
+
+### Web & Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,androidstudio" />
+</p>
+
+### Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,sqlite,prisma" />
+</p>
+
+### AI, Cloud & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,aws,gcp,azure,git,github,docker,linux,vscode" />
+</p>
+
+---
+
+## 🏢 ARYAVAX Technologies
+
+**Building technology with purpose.**
+
+ARYAVAX Technologies is my technology initiative focused on:
+
+- Artificial Intelligence & Machine Learning
+- Cybersecurity & Digital Protection
+- Autonomous Systems
+- Software Engineering & Automation
+
+I'm working towards developing practical, secure, and intelligent technology solutions.
+
+---
+
+## 📂 Explore My GitHub
+
+<p align="center">
+  <a href="https://github.com/DuskForged-Coder?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-All%20Repositories-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/DuskForged-Coder?tab=projects">
+    <img src="https://img.shields.io/badge/View-Projects-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=DuskForged-Coder&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DuskForged-Coder&theme=dark&hide_border=false" width="100%" alt="GitHub Contribution Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DuskForged-Coder&theme=dark&hide_border=false&layout=compact&langs_count=8" width="100%" alt="Most Used Programming Languages"/>
+</p>
+
+---
+
+## 🧩 Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,androidstudio&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,kotlin,swift,r&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,sqlite,prisma&theme=dark" />
+</p>
+
+---
+
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DuskForged-Coder/DuskForged-Coder/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/DuskForged-Coder/DuskForged-Coder/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/DuskForged-Coder/DuskForged-Coder/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/adityanarayanrautaray">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-narayan-rautaray-92b05b272/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aditya.rautaray2020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/DuskForged-Coder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ☕ Support My Work
+
+Building, experimenting, and learning takes time and resources.
+
+If you appreciate my projects and want to support my development journey, consider making a contribution.
+
+<p align="center">
+  <a href="https://razorpay.me/@adityanarayanrautaray">
+    <img src="https://img.shields.io/badge/Support%20My%20Work-Donate%20via%20Razorpay-0D6EFD?style=for-the-badge&logo=razorpay&logoColor=white" alt="Donate via Razorpay" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>THINK. BUILD. EXPERIMENT. IMPROVE.</b>
+  <br/><br/>
+  <sub>Designed & maintained by Aditya Narayan Rautaray</sub>
+  <br/>
+  <sub>© 2026 · All rights reserved.</sub>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=DuskForged-Coder&label=PROFILE%20VIEWS&color=00BFFF&style=flat-square" />
+</p>

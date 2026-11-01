@@ -232,24 +232,122 @@ A space for technology events, developer activities, workshops, hackathons and f
 
 **More updates coming soon.**
 
-## 🛍️ ARYAVAX Store
+## 🛍️ ADITYA'S DIGITAL STORE
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ARYAVAX-TECHNOLOGIES-00BFFF?style=for-the-badge&logo=shopify&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=BUILDING+DIGITAL+EXPERIENCES;DEVELOPMENT+%7C+AUTOMATION+%7C+INNOVATION;YOUR+IDEA.+MY+ENGINEERING." alt="Animated Store Heading" />
 </p>
 
-Explore technology services and digital solutions from ARYAVAX Technologies.
-
-- 🌐 Website Development
-- 📱 Android Application Development
-- 🔐 Cybersecurity Solutions
-- 🧠 AI & Automation
-- ⚙️ Custom Software Development
+<p align="center">
+  <b>Turn your ideas into working digital products.</b><br/>
+  Websites • Applications • AI Solutions • Automation • Custom Software
+</p>
 
 <p align="center">
-  <a href="https://aryavax-technologies.ai.studio">
-    <img src="https://img.shields.io/badge/EXPLORE%20ARYAVAX%20STORE-Visit%20Website-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WEB-DEVELOPMENT-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/APP-DEVELOPMENT-00BFFF?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUSTOM-AUTOMATION-00BFFF?style=for-the-badge&logo=zapier&logoColor=white" />
+</p>
+
+### ⚡ Explore Services
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Development
+
+- Business websites
+- Portfolio websites
+- E-commerce platforms
+- Admin dashboards
+- Landing pages
+- Custom web applications
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 App Development
+
+- Android applications
+- Custom mobile apps
+- UI/UX implementation
+- API integrations
+- Database-connected apps
+- Application prototypes
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI & Intelligent Systems
+
+- AI integrations
+- Machine learning applications
+- Local AI solutions
+- Intelligent assistants
+- Data-driven applications
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Automation & Systems
+
+- Workflow automation
+- API automation
+- Inventory management
+- Business management systems
+- Database solutions
+- Custom software tools
+
+</td>
+</tr>
+</table>
+
+### 🚀 GitHub Project Collection
+
+Want to explore my existing development work?
+
+<p align="center">
+  <a href="https://github.com/DuskForged-Coder?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-MY_GITHUB_PROJECTS-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+### 🛠️ Something Custom?
+
+Have an idea that doesn't fit into these categories?
+
+I also take enquiries for:
+- Custom-built software
+- Inventory and business systems
+- Personal or academic projects
+- Technical prototypes
+- Unique automation requirements
+- Other development requests
+
+### 💬 Order & Pricing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRICING-AVAILABLE_ON_REQUEST-00BFFF?style=for-the-badge" />
+</p>
+
+Every project is different. Contact me with your requirements to discuss pricing, scope and estimated delivery.
+
+<p align="center">
+  <a href="https://wa.me/918882337893?text=Hello%20Aditya!%20I%20am%20interested%20in%20your%20development%20services.%20I%20would%20like%20to%20discuss%20a%20project.">
+    <img src="https://img.shields.io/badge/CONTACT_FOR_ORDERS-CHAT_ON_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>📞 WhatsApp: 8882337893</b><br/>
+  <i>Direct contactless purchasing and online ordering will be available soon.</i>
+</p>
+
+<p align="center">
+  <sub>DESIGNED & DEVELOPED BY ADITYA NARAYAN RAUTARAY</sub>
 </p>
 
 ## 💡 Innovation & Ideas

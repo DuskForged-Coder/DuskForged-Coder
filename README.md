@@ -18,6 +18,23 @@
 
 ---
 
+## 🚄 PROJECT EXPRESS — LIVE FROM GITHUB
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/DuskForged-Coder/DuskForged-Coder/output/project-train.gif"
+    width="100%"
+    alt="Automatically updated GitHub project ticker"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DuskForged-Coder?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 ## 💫 About Me
 
 I'm **Aditya Narayan Rautaray**, a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning at Bennett University**.

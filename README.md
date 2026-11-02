@@ -16,6 +16,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://razorpay.me/@adityanarayanrautaray">
+    <img src="https://img.shields.io/badge/Support%20My%20Work-Donate%20via%20Razorpay-0D6EFD?style=for-the-badge&logo=razorpay&logoColor=white" alt="Donate via Razorpay" />
+  </a>
+</p>
+
 ---
 
 ## 🚄 PROJECT EXPRESS — LIVE FROM GITHUB
